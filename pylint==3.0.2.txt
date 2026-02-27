@@ -1,0 +1,8 @@
+[MASTER]
+load-plugins=
+
+[MESSAGES CONTROL]
+disable=C0114,C0115,C0116,R0903,W0718
+
+[DESIGN]
+max-line-length=100
